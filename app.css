@@ -1,0 +1,41 @@
+/* App.css */
+.app {
+    margin: 20px;
+  }
+  
+  .recipe-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .recipe-details {
+    margin-top: 20px;
+  }
+  
+  .recipe-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .recipe-details img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-details h4 {
+    margin-bottom: 5px;
+  }
+  
+  .recipe-details ul,
+  .recipe-details ol {
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
